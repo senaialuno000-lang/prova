@@ -126,6 +126,14 @@ main {
     width: 80px;
 }
 
+.conteudo_redes-sociais .rs_content img:nth-child(4) {
+    width: 100px;
+}
+
+.conteudo_redes-sociais .rs_content img:nth-child(6){
+    width: 90px;
+}
+
 .conteudo_redes-sociais .redes-inf {
     padding: 0 140px;
 }
